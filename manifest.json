@@ -1,0 +1,36 @@
+{
+    "name": "pushyBLOCK",
+    "short_name": "pushyBLOCK",
+    "display": "standalone",
+    "orientation": "portrait",
+    "theme_color": "#8C7C40",
+    "background_color": "#fff",
+    "icons":[
+        {
+            "src": "/images/icons/launcher-icon-48.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "/images/icons/launcher-icon-96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "/images/icons/launcher-icon-144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "/images/icons/launcher-icon-256.png",
+            "type": "image/png",
+            "sizes": "265x256"
+        },
+        {
+            "src": "/images/icons/launcher-icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "index.html?launcher=true"
+}
